@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: fc123abfa7c494c2a83d1364ffc34bca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tempered_sound: {fileID: 8300000, guid: 368727212469843b9a6a34687e2e546c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
